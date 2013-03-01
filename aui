@@ -4846,18 +4846,18 @@ case "$1" in
           add_custom_repositories
           install_basic_setup
           install_ssh
-          install_nfs
-          install_samba
-          install_lmt
+          #install_nfs
+          #install_samba
+          #install_lmt
           install_preload
           install_zram
-          install_xorg
-          font_config
-          install_video_cards
-          install_cups
-          install_additional_firmwares
-          install_git_tor
-          install_fwd
+          #install_xorg
+          #font_config
+          #install_video_cards
+          #install_cups
+          #install_additional_firmwares
+          #install_git_tor
+          #install_fwd
           checklist[1]=1
           ;;
         2)
